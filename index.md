@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Geospatial Risk Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[My LinkedIn](https://www.linkedin.com/in/kathleen-scopis-12b274139/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
